@@ -1,1 +1,1 @@
-export default {data:{Products:[]},prerenderedAt:1695095765415}
+export default {data:{Products:[]},prerenderedAt:1695101213764}
